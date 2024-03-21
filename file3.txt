@@ -1,1 +1,2 @@
 This is the 1st line in file3.txt
+This is the 2nd line in file3.txt
